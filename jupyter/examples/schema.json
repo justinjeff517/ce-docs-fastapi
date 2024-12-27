@@ -1,0 +1,8 @@
+{
+    "collection":"examples",
+    "id":"uuidv4",
+    "name":"string",
+    "image_urls":"array",
+    "opencv_extraction":"string",
+    "topics":"array"
+}

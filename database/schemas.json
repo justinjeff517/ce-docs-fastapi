@@ -1,0 +1,45 @@
+
+{
+    "collection":"terms",
+    "id":"string",
+    "name":"string",
+    "description":"string"
+}
+
+{
+    "collection":"subjects",
+    "id":"string",
+    "name":"string",
+    "topics":"array"
+}
+
+
+{
+    "collection":"topics",
+    "id":"string",
+    "name":"string",
+    "formulas":"array",
+    "subjects":"array",
+    "examples":"array"
+}
+
+{
+    "collection":"examples",
+    "id":"string",
+    "name":"string",
+    "image_urls":"array",
+   
+    "opencv_extraction":"string",
+    "topics":"array"
+}
+
+{
+    "collection":"formulas",
+    "name":"string",
+    "image_url":"string",
+    "description":"string",
+    "opencv_extraction":"string",
+    "openai_description":"string",
+    "related_topics":"array",
+    "related_terms":"array"
+}
